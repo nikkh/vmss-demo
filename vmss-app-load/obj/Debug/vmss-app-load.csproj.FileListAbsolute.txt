@@ -1,0 +1,8 @@
+c:\users\nhill\documents\visual studio 2017\Projects\vmss-demo\vmss-app-load\bin\Debug\WebTest1.webtest
+c:\users\nhill\documents\visual studio 2017\Projects\vmss-demo\vmss-app-load\bin\Debug\vmss-app-load.dll
+c:\users\nhill\documents\visual studio 2017\Projects\vmss-demo\vmss-app-load\bin\Debug\vmss-app-load.pdb
+c:\users\nhill\documents\visual studio 2017\Projects\vmss-demo\vmss-app-load\bin\Debug\Microsoft.VisualStudio.QualityTools.WebTestFramework.dll
+c:\users\nhill\documents\visual studio 2017\Projects\vmss-demo\vmss-app-load\obj\Debug\vmss-app-load.csprojResolveAssemblyReference.cache
+c:\users\nhill\documents\visual studio 2017\Projects\vmss-demo\vmss-app-load\obj\Debug\vmss-app-load.dll
+c:\users\nhill\documents\visual studio 2017\Projects\vmss-demo\vmss-app-load\obj\Debug\vmss-app-load.pdb
+c:\users\nhill\documents\visual studio 2017\Projects\vmss-demo\vmss-app-load\bin\Debug\LoadTest1.loadtest
