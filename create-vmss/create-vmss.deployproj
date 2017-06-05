@@ -33,6 +33,7 @@
     <Content Include="Deploy-AzureResourceGroup.ps1" />
     <None Include="DSC\IISInstall.ps1.zip" />
     <None Include="metadata.json" />
+    <None Include="README.md" />
   </ItemGroup>
   <Target Name="GetReferenceAssemblyPaths" />
 </Project>
