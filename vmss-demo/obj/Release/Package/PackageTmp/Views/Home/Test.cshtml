@@ -1,0 +1,13 @@
+﻿@{
+    ViewBag.Title = "Execute Test";
+}
+<h2>@ViewBag.Title.</h2>
+
+<p>This page retrieves a list of documents from a Document DB database.  Document DB can be purchased in
+    throughput units, and the instance used in this test is set to the minimum throughput.</p>
+<p>
+    When running normally, the site has only one or two users, and therefore the throughput limit will not be exceeded and no adverse behaviour will be seen. When running under load test, the throughput limit will exceeded, the database throttled and requests will start to fail.
+</p>
+<p>
+    We can configure this application to optionally caching
+</p>
