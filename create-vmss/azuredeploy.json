@@ -4,7 +4,7 @@
   "parameters": {
     "vmSku": {
       "type": "string",
-      "defaultValue": "Standard_A1",
+      "defaultValue": "Standard_A2",
       "metadata": {
         "description": "Size of VMs in the VM Scale Set."
       }
@@ -76,7 +76,7 @@
     },
     "webDeployPackage": {
       "type": "string",
-      "defaultValue": "/WebDeploy/vmss-demo V1.zip",
+      "defaultValue": "/WebDeploy/vmss-demo V4.zip",
       "metadata": {
         "description": "Location of the  of the WebDeploy package zip file relative to the URI specified in _artifactsLocation, i.e. /WebDeploy/DefaultASPWebApp.v1.0.zip"
       }

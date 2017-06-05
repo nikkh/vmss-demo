@@ -3,7 +3,7 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "vmSku": {
-      "value": "Standard_A1"
+      "value": "Standard_A3"
     },
     "windowsOSVersion": {
       "value": "2016-Datacenter"
@@ -24,7 +24,7 @@
       "value": "/DSC/IISInstall.ps1.zip"
     },
     "webDeployPackage": {
-      "value": "/WebDeploy/vmss-demo V1.zip"
+      "value": "/WebDeploy/vmss-demo V4.zip"
     },
     "powershelldscUpdateTagVersion": {
       "value": "1.0"
