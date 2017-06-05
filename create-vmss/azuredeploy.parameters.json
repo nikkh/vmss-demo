@@ -9,7 +9,7 @@
       "value": "2016-Datacenter"
     },
     "vmssName": {
-      "value": "GEN-UNIQUE-5"
+      "value": "NRH-UNIQUE-1"
     },
     "instanceCount": {
       "value": 3
@@ -24,7 +24,7 @@
       "value": "/DSC/IISInstall.ps1.zip"
     },
     "webDeployPackage": {
-      "value": "/WebDeploy/DefaultASPWebApp.v1.0.zip"
+      "value": "../WebDeploy/vmss-demo V1.zip"
     },
     "powershelldscUpdateTagVersion": {
       "value": "1.0"
