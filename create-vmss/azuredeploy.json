@@ -68,7 +68,7 @@
     },
     "powershelldscZip": {
       "type": "string",
-      "defaultValue": "/DSC/IISInstall.ps1.zip",
+      "defaultValue": "https://github.com/nikkh/vmss-demo/blob/master/create-vmss/DSC/IISInstall.ps1.zip",
       "metadata": {
         "description": "Location of the PowerShell DSC zip file relative to the URI specified in the _artifactsLocation, i.e. /DSC/IISInstall.ps1.zip"
       }
