@@ -66,3 +66,4 @@ c:\users\nhill\documents\visual studio 2017\Projects\vmss-demo\vmss-demo\bin\Mic
 c:\users\nhill\documents\visual studio 2017\Projects\vmss-demo\vmss-demo\bin\Microsoft.AI.Web.xml
 c:\users\nhill\documents\visual studio 2017\Projects\vmss-demo\vmss-demo\obj\Release\vmss-demo.dll
 c:\users\nhill\documents\visual studio 2017\Projects\vmss-demo\vmss-demo\obj\Release\vmss-demo.pdb
+c:\Users\nhill\Documents\Visual Studio 2017\Projects\vmss-demo\vmss-demo\obj\Release\vmss-demo.csprojResolveAssemblyReference.cache
