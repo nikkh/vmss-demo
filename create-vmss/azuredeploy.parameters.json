@@ -24,7 +24,7 @@
       "value": "/DSC/IISInstall.ps1.zip"
     },
     "webDeployPackage": {
-      "value": "../WebDeploy/vmss-demo V1.zip"
+      "value": "/WebDeploy/vmss-demo V1.zip"
     },
     "powershelldscUpdateTagVersion": {
       "value": "1.0"

@@ -35,5 +35,8 @@
     <None Include="metadata.json" />
     <None Include="README.md" />
   </ItemGroup>
+  <ItemGroup>
+    <Folder Include="WebDeploy\" />
+  </ItemGroup>
   <Target Name="GetReferenceAssemblyPaths" />
 </Project>
