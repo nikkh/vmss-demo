@@ -386,7 +386,7 @@
   "outputs": {
     "applicationUrl": {
       "type": "string",
-      "value": "[concat('http://', reference(variables('publicIPAddressName')).dnsSettings.fqdn, '/MyApp')]"
+      "value": "[concat('http://', reference(variables('publicIPAddressName')).dnsSettings.fqdn, '/vmss-demo')]"
     }
   }
 }
