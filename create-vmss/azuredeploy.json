@@ -76,7 +76,7 @@
     },
     "webDeployPackage": {
       "type": "string",
-      "defaultValue": "/WebDeploy/vmss-demo v4.zip",
+      "defaultValue": "/WebDeploy/vmss-demo v5.zip",
       "metadata": {
         "description": "Location of the  of the WebDeploy package zip file relative to the URI specified in _artifactsLocation, i.e. /WebDeploy/DefaultASPWebApp.v1.0.zip"
       }
